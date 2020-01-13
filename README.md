@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to the party, come on in.
 
-You can use the [editor on GitHub](https://github.com/dfoulks1/dfoulks1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Job and Hobbies
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm currently a Systems Administrator for the Apache Software Foundation. I enjoy making things from wook, and being outdoors. I play guitar, speak terrible french, and I program a little on the side.
 
-### Markdown
+## Characteristics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm shy and trying not to be. it's a rough road but I'll get there. I like to be witty but there's a 50/50 shot no one will
+notice.
 
-```markdown
-Syntax highlighted code block
+### Family
 
-# Header 1
-## Header 2
-### Header 3
+I've got three girls and a wife. The girls are happy but not unrealistic about it. We're not big on home automation / voice control technology, or anything with a camera, Not because we're paranoid, but because we get enough of that everywhere else.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dfoulks1/dfoulks1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
